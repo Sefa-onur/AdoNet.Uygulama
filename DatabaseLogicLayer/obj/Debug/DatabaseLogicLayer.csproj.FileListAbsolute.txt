@@ -1,0 +1,9 @@
+C:\Users\sefao\source\repos\AdoNet.Uygulama\DatabaseLogicLayer\bin\Debug\DatabaseLogicLayer.dll
+C:\Users\sefao\source\repos\AdoNet.Uygulama\DatabaseLogicLayer\bin\Debug\DatabaseLogicLayer.pdb
+C:\Users\sefao\source\repos\AdoNet.Uygulama\DatabaseLogicLayer\bin\Debug\Entities.dll
+C:\Users\sefao\source\repos\AdoNet.Uygulama\DatabaseLogicLayer\bin\Debug\Entities.pdb
+C:\Users\sefao\source\repos\AdoNet.Uygulama\DatabaseLogicLayer\obj\Debug\DatabaseLogicLayer.csproj.AssemblyReference.cache
+C:\Users\sefao\source\repos\AdoNet.Uygulama\DatabaseLogicLayer\obj\Debug\DatabaseLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\sefao\source\repos\AdoNet.Uygulama\DatabaseLogicLayer\obj\Debug\DatabaseLogicLayer.csproj.CopyComplete
+C:\Users\sefao\source\repos\AdoNet.Uygulama\DatabaseLogicLayer\obj\Debug\DatabaseLogicLayer.dll
+C:\Users\sefao\source\repos\AdoNet.Uygulama\DatabaseLogicLayer\obj\Debug\DatabaseLogicLayer.pdb

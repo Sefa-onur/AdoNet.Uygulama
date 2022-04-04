@@ -1,0 +1,11 @@
+C:\Users\sefao\source\repos\AdoNet.Uygulama\BussinesLogicLayer\bin\Debug\BussinesLogicLayer.dll
+C:\Users\sefao\source\repos\AdoNet.Uygulama\BussinesLogicLayer\bin\Debug\BussinesLogicLayer.pdb
+C:\Users\sefao\source\repos\AdoNet.Uygulama\BussinesLogicLayer\bin\Debug\DatabaseLogicLayer.dll
+C:\Users\sefao\source\repos\AdoNet.Uygulama\BussinesLogicLayer\bin\Debug\Entities.dll
+C:\Users\sefao\source\repos\AdoNet.Uygulama\BussinesLogicLayer\bin\Debug\DatabaseLogicLayer.pdb
+C:\Users\sefao\source\repos\AdoNet.Uygulama\BussinesLogicLayer\bin\Debug\Entities.pdb
+C:\Users\sefao\source\repos\AdoNet.Uygulama\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.csproj.AssemblyReference.cache
+C:\Users\sefao\source\repos\AdoNet.Uygulama\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.csproj.CoreCompileInputs.cache
+C:\Users\sefao\source\repos\AdoNet.Uygulama\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.csproj.CopyComplete
+C:\Users\sefao\source\repos\AdoNet.Uygulama\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.dll
+C:\Users\sefao\source\repos\AdoNet.Uygulama\BussinesLogicLayer\obj\Debug\BussinesLogicLayer.pdb

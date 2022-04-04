@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e633f638-4411-4c0d-bd8c-48fa97c535c8": {
+      "ProjectGuid": "e633f638-4411-4c0d-bd8c-48fa97c535c8",
+      "DisplayName": "AdoNet.Uygulama",
+      "ColorIndex": 0
+    },
+    "69b36659-b00c-472f-bfa4-97ad5d4eb398": {
+      "ProjectGuid": "69b36659-b00c-472f-bfa4-97ad5d4eb398",
+      "DisplayName": "DatabaseLogicLayer",
+      "ColorIndex": 1
+    },
+    "099708e0-be27-4f2f-be76-06ee8465d44f": {
+      "ProjectGuid": "099708e0-be27-4f2f-be76-06ee8465d44f",
+      "DisplayName": "BussinesLogicLayer",
+      "ColorIndex": 2
+    },
+    "31567f74-2da5-4032-a9d5-b0016af70c19": {
+      "ProjectGuid": "31567f74-2da5-4032-a9d5-b0016af70c19",
+      "DisplayName": "Entities",
+      "ColorIndex": 3
+    },
+    "7aeb52b7-6e29-4121-962a-0c2edd184945": {
+      "ProjectGuid": "7aeb52b7-6e29-4121-962a-0c2edd184945",
+      "DisplayName": "WindowsUI",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
